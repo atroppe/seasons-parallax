@@ -1,0 +1,34 @@
+.page {
+    min-height: 100vh;
+    padding: 5rem 15rem;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+}
+.page p {
+    font-size: 4rem;
+}
+em {
+    font-size: 2rem;
+}
+.autumn p, .autumn em, .spring p, .spring em {
+    color: white;
+    font-family: 'League Script', cursive;
+}
+.winter p, .winter em, .summer p, .summer em {
+    color: black;
+    font-family: 'Just Another Hand', cursive;
+}
+.autumn {
+    background-image: url(http://38.media.tumblr.com/c07be931db3413ff50fb452346d52c8f/tumblr_n5e5tyYJkE1st5lhmo1_1280.jpg);
+}
+.winter {
+    background-image: url(http://31.media.tumblr.com/a8ddf2ecff64b82a903872c6480b13cc/tumblr_na0kiqZ2XU1st5lhmo1_1280.jpg);
+}
+.spring {
+    background-image: url(http://38.media.tumblr.com/e6c1c887ba8e24a855351940bcd3c343/tumblr_n8zm44LBpl1st5lhmo1_1280.jpg);
+}
+.summer {
+    background-image: url(http://38.media.tumblr.com/17eeef2d987d9658ef9cbabee819d0c4/tumblr_mqq4ivpL641st5lhmo1_1280.jpg);
+}
