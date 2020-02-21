@@ -1,4 +1,4 @@
-#The Seasons, Parallax style
+# The Seasons, Parallax style
 
-###Description
+### Description
 A simple parallax example, experimenting with scrolling effects
